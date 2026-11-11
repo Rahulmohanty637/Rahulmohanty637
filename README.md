@@ -27,11 +27,9 @@ I care about the details users notice and the architecture they never have to th
 
 <img src="https://img.shields.io/badge/FRONTEND-B63E96?style=for-the-badge" height="26" alt="Frontend" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css&theme=dark" height="40" alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, HTML, CSS" />
 
-<img src="https://img.shields.io/badge/BACKEND-58E6D9?style=for-the-badge" height="26" alt="Backend" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py,fastapi,java,spring&theme=dark" height="40" alt="Python, FastAPI, Java, Spring Boot" />
+<img src="https://img.shields.io/badge/BACKEND_%26_DATA-58E6D9?style=for-the-badge" height="26" alt="Backend and data" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py,fastapi,java,spring,postgres,mysql,mongodb,redis&theme=dark" height="40" alt="Python, FastAPI, Java, Spring Boot, PostgreSQL, MySQL, MongoDB, Redis" />
 
-<img src="https://img.shields.io/badge/DATA_%26_CLOUD-B63E96?style=for-the-badge" height="26" alt="Data and cloud" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,vercel&theme=dark" height="40" alt="PostgreSQL, MySQL, MongoDB, Redis, AWS, Vercel" />
-
-<img src="https://img.shields.io/badge/TOOLS_%26_DESIGN-58E6D9?style=for-the-badge" height="26" alt="Tools and design" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git,github,jest,postman,figma&theme=dark" height="40" alt="Git, GitHub, Jest, Postman, Figma" />
+<img src="https://img.shields.io/badge/CLOUD_%26_TOOLS-B63E96?style=for-the-badge" height="26" alt="Cloud and tools" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,jest,postman,figma&theme=dark" height="40" alt="AWS, Vercel, Git, GitHub, Jest, Postman, Figma" />
 
 </div>
 
