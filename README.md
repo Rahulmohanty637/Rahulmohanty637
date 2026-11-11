@@ -1,19 +1,72 @@
-# 💫 About Me:
-Passionate about leveraging cutting-edge technology to address global challenges, I'm a dedicated Software Engineer with a firm commitment to engineering innovative solutions. My expertise in data structures and algorithms forms the bedrock of my work, allowing me to craft highly efficient code that not only solves complex problems but also delivers optimal performance. My commitment to staying abreast of the latest trends in software development ensures that my solutions exceed expectations and anticipate future needs. Beyond technical proficiency, my work ethic is defined by a strong sense of responsibility, attention to detail, and a collaborative spirit, driving me to thrive in team environments and consistently deliver impactful, high-quality solutions.
+<img src="./public/header.svg" width="100%" alt="$ whoami: Rahul Mohanty, full stack developer, Hyderabad, India" />
 
-As a Software Engineer, I'm driven by a deep dedication to making a positive impact through my work. I'm committed to integrating the latest technologies into my solutions, ensuring they not only meet present demands but also anticipate future needs. My foundation in data structures and algorithms empowers me to craft efficient, high-performing code, while my strong work ethic, marked by attention to detail and collaboration, allows me to excel in team environments. I'm not just a coder; I'm passionate about engineering solutions that contribute to a brighter technological future.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&color=58E6D9&width=680&height=40&lines=full+stack+developer;react+%C2%B7+next.js+%C2%B7+typescript;fastapi+%C2%B7+postgresql+%C2%B7+aws;designed+in+figma%2C+shipped+to+production;open+to+remote+%26+relocation" alt="full stack developer: React, Next.js, TypeScript, FastAPI, PostgreSQL, AWS; designed in Figma, shipped to production; open to remote and relocation" />
+<br>
+<img src="https://komarev.com/ghpvc/?username=Rahulmohanty637&label=views&color=B63E96&style=flat-square" alt="profile views" />
+<a href="https://github.com/Rahulmohanty637?tab=followers"><img src="https://img.shields.io/github/followers/Rahulmohanty637?label=followers&style=flat-square&color=58E6D9&labelColor=1B1B1B&logo=github&logoColor=F5F5F5" alt="followers" /></a>
+<a href="https://github.com/Rahulmohanty637?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Rahulmohanty637?label=stars&style=flat-square&color=B63E96&labelColor=1B1B1B&logo=github&logoColor=F5F5F5" alt="stars" /></a>
+</div>
 
+<img src="./public/band-about.svg" width="100%" alt="$ cat about.md" />
 
-## 🌐 Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-mohanty-4aa7bb203/) [![Leetcode](https://img.shields.io/badge/Leetcode-000000?logo=Leetcode&logoColor=yellow)](https://leetcode.com/u/monty_rahul_/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-000000?logo=HackerRank&logoColor=green)](https://www.hackerrank.com/profile/rahulmohanty637)
-[![GeekforGeeks](https://img.shields.io/badge/GeekforGeeks-%220077B5?logo=GFG&logoColor=green)](https://www.geeksforgeeks.org/user/rahulmoh87dz/)
+I'm a full stack developer with a UI/UX background and **2+ years** of experience building production web and mobile apps. I design in **Figma**, build interfaces with **React, Next.js and TypeScript**, and write the APIs behind them with **Python, FastAPI and PostgreSQL** on **AWS**.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Spring](https://img.shields.io/badge/Spring%20Boot%20-6DA55F?style=flat-square&logo=Spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security%20-6DA55F?style=flat-square&logo=Spring&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rahulmohanty637&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rahulmohanty637&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulmohanty637&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+I care about the details users notice and the architecture they never have to think about. That means fast, accessible screens on top of reliable APIs and data.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| | |
+|---|---|
+| `--latest` | [Heart2Tail](https://www.heart2tail.in/), a pet-care marketplace I designed and built end to end: web, mobile and backend |
+| `--focus` | full stack products, from first sketch to launch |
+| `--reach-me-for` | React, Next.js, React Native, FastAPI, PostgreSQL, AWS |
+| `--open-to` | full stack roles and freelance work, remote or relocation |
+
+<img src="./public/band-stack.svg" width="100%" alt="$ ls ./stack" />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FRONTEND-B63E96?style=for-the-badge" height="26" alt="Frontend" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css&theme=dark" height="40" alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, HTML, CSS" />
+
+<img src="https://img.shields.io/badge/BACKEND-58E6D9?style=for-the-badge" height="26" alt="Backend" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py,fastapi,java,spring&theme=dark" height="40" alt="Python, FastAPI, Java, Spring Boot" />
+
+<img src="https://img.shields.io/badge/DATA_%26_CLOUD-B63E96?style=for-the-badge" height="26" alt="Data and cloud" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,vercel&theme=dark" height="40" alt="PostgreSQL, MySQL, MongoDB, Redis, AWS, Vercel" />
+
+<img src="https://img.shields.io/badge/TOOLS_%26_DESIGN-58E6D9?style=for-the-badge" height="26" alt="Tools and design" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git,github,jest,postman,figma&theme=dark" height="40" alt="Git, GitHub, Jest, Postman, Figma" />
+
+</div>
+
+<img src="./public/band-projects.svg" width="100%" alt="$ ls ./projects --featured" />
+
+| Project | What it is | Built with |
+|---|---|---|
+| **[Heart2Tail](https://www.heart2tail.in/)** | Pet-care marketplace connecting pet parents with vets, groomers and trainers. 110+ routes across 5 role-based portals, Razorpay checkout and real-time chat. Live with 25 verified providers and 187 completed bookings. | Next.js · TypeScript · FastAPI · PostgreSQL · AWS S3 |
+| **Heart2Tail Mobile** | The Android and iOS app from one React Native codebase, on the same backend. Bookings, pet medical records, chat with an offline message queue, and video consultations. | React Native · Expo EAS · WebSockets · SSE |
+| **Supplier Hub** | GenAI-powered B2B procurement platform built at Holmes AI. 30+ new screens across 6 modules, a sourcing workflow, analytics dashboards with a streaming LLM chatbot, and 40% fewer audit API calls with TanStack Query. | React · Next.js · TanStack Query · Keycloak · Stripe |
+| **[ResGenXAI](https://conference-website-main.vercel.app/)** · [code](https://github.com/Rahulmohanty637/Conference-Website-main) | Responsive website for an international AI conference: tracks, committees, author guidelines and registration flows. | React · Tailwind CSS · Framer Motion |
+
+<img src="./public/band-experience.svg" width="100%" alt="$ git log --oneline career" />
+
+```text
+2026.01 → 2026.10   Software Engineer             @ Holmes AI      Hyderabad
+2024.08 → 2025.12   Assistant System Engineer     @ TCS            Bengaluru
+2024.03 → 2024.05   Full Stack Developer Intern   @ Gram Tarang    Bhubaneswar
+2022    → 2024      MCA, Gold Medalist            @ Centurion University of Technology and Management
+```
+
+<img src="./public/band-activity.svg" width="100%" alt="$ git log --stat" />
+
+<div align="center">
+<img height="180" src="https://streak-stats.demolab.com?user=Rahulmohanty637&hide_border=true&background=1B1B1B&border=333333&stroke=333333&ring=B63E96&fire=58E6D9&currStreakNum=F5F5F5&sideNums=A3A3A3&currStreakLabel=58E6D9&sideLabels=A3A3A3&dates=6B6B6B" alt="contribution streak" />
+</div>
+
+<img src="./public/band-connect.svg" width="100%" alt="$ curl --connect" />
+
+<div align="center">
+<a href="https://linkedin.com/in/rahul-mohanty-4aa7bb203"><img src="https://img.shields.io/badge/LinkedIn-1B1B1B?style=for-the-badge&logo=linkedin&logoColor=58E6D9" height="30" alt="LinkedIn" /></a>
+<a href="https://www.upwork.com/freelancers/~015de516fa45db6cb4"><img src="https://img.shields.io/badge/Upwork-1B1B1B?style=for-the-badge&logo=upwork&logoColor=6FDA44" height="30" alt="Upwork" /></a>
+<a href="https://leetcode.com/u/monty_rahul_/"><img src="https://img.shields.io/badge/LeetCode-1B1B1B?style=for-the-badge&logo=leetcode&logoColor=FFA116" height="30" alt="LeetCode" /></a>
+<a href="https://x.com/RahulMo89176947"><img src="https://img.shields.io/badge/X-1B1B1B?style=for-the-badge&logo=x&logoColor=F5F5F5" height="30" alt="X" /></a>
+<a href="mailto:rahulmohanty637@gmail.com"><img src="https://img.shields.io/badge/Email-1B1B1B?style=for-the-badge&logo=gmail&logoColor=B63E96" height="30" alt="Email" /></a>
+</div>
+
+<img src="./public/footer.svg" width="100%" alt="$ echo $MOTTO: code with a designer's eye" />
