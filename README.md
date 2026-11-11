@@ -10,12 +10,15 @@
 
 <img src="./public/band-about.svg" width="100%" alt="$ cat about.md" />
 
+<img align="right" height="150" src="./public/lain-monitor.gif" alt="Lain, from Serial Experiments Lain, watching a terminal glow" />
+
 I'm a full stack developer with a UI/UX background and **2+ years** of experience building production web and mobile apps. I design in **Figma**, build interfaces with **React, Next.js and TypeScript**, and write the APIs behind them with **Python, FastAPI and PostgreSQL** on **AWS**.
 
 I care about the details users notice and the architecture they never have to think about. That means fast, accessible screens on top of reliable APIs and data.
 
 | | |
 |---|---|
+| `--portfolio` | [rahulm-637.vercel.app](https://rahulm-637.vercel.app/) |
 | `--latest` | [Heart2Tail](https://www.heart2tail.in/), a pet-care marketplace I designed and built end to end: web, mobile and backend |
 | `--focus` | full stack products, from first sketch to launch |
 | `--reach-me-for` | React, Next.js, React Native, FastAPI, PostgreSQL, AWS |
@@ -33,15 +36,6 @@ I care about the details users notice and the architecture they never have to th
 
 </div>
 
-<img src="./public/band-projects.svg" width="100%" alt="$ ls ./projects --featured" />
-
-| Project | What it is | Built with |
-|---|---|---|
-| **[Heart2Tail](https://www.heart2tail.in/)** | Pet-care marketplace connecting pet parents with vets, groomers and trainers. 110+ routes across 5 role-based portals, Razorpay checkout and real-time chat. Live with 25 verified providers and 187 completed bookings. | Next.js · TypeScript · FastAPI · PostgreSQL · AWS S3 |
-| **Heart2Tail Mobile** | The Android and iOS app from one React Native codebase, on the same backend. Bookings, pet medical records, chat with an offline message queue, and video consultations. | React Native · Expo EAS · WebSockets · SSE |
-| **Supplier Hub** | GenAI-powered B2B procurement platform built at Holmes AI. 30+ new screens across 6 modules, a sourcing workflow, analytics dashboards with a streaming LLM chatbot, and 40% fewer audit API calls with TanStack Query. | React · Next.js · TanStack Query · Keycloak · Stripe |
-| **[ResGenXAI](https://conference-website-main.vercel.app/)** · [code](https://github.com/Rahulmohanty637/Conference-Website-main) | Responsive website for an international AI conference: tracks, committees, author guidelines and registration flows. | React · Tailwind CSS · Framer Motion |
-
 <img src="./public/band-experience.svg" width="100%" alt="$ git log --oneline career" />
 
 ```text
@@ -54,12 +48,14 @@ I care about the details users notice and the architecture they never have to th
 <img src="./public/band-activity.svg" width="100%" alt="$ git log --stat" />
 
 <div align="center">
+<img height="180" src="./public/lain-desk.gif" alt="Lain, from Serial Experiments Lain, at her desk at night" />
 <img height="180" src="https://streak-stats.demolab.com?user=Rahulmohanty637&hide_border=true&background=1B1B1B&border=333333&stroke=333333&ring=B63E96&fire=58E6D9&currStreakNum=F5F5F5&sideNums=A3A3A3&currStreakLabel=58E6D9&sideLabels=A3A3A3&dates=6B6B6B" alt="contribution streak" />
 </div>
 
 <img src="./public/band-connect.svg" width="100%" alt="$ curl --connect" />
 
 <div align="center">
+<a href="https://rahulm-637.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1B1B1B?style=for-the-badge&logo=vercel&logoColor=B63E96" height="30" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/rahul-mohanty-4aa7bb203"><img src="https://img.shields.io/badge/LinkedIn-1B1B1B?style=for-the-badge&logo=linkedin&logoColor=58E6D9" height="30" alt="LinkedIn" /></a>
 <a href="https://www.upwork.com/freelancers/~015de516fa45db6cb4"><img src="https://img.shields.io/badge/Upwork-1B1B1B?style=for-the-badge&logo=upwork&logoColor=6FDA44" height="30" alt="Upwork" /></a>
 <a href="https://leetcode.com/u/monty_rahul_/"><img src="https://img.shields.io/badge/LeetCode-1B1B1B?style=for-the-badge&logo=leetcode&logoColor=FFA116" height="30" alt="LeetCode" /></a>
