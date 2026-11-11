@@ -10,7 +10,7 @@
 
 <img src="./public/band-about.svg" width="100%" alt="$ cat about.md" />
 
-<img align="right" height="150" src="./public/lain-monitor.gif" alt="Lain, from Serial Experiments Lain, watching a terminal glow" />
+<!-- <img align="right" height="150" src="./public/lain-monitor.gif" alt="Lain, from Serial Experiments Lain, watching a terminal glow" /> -->
 
 I'm a full stack developer with a UI/UX background and **2+ years** of experience building production web and mobile apps. I design in **Figma**, build interfaces with **React, Next.js and TypeScript**, and write the APIs behind them with **Python, FastAPI and PostgreSQL** on **AWS**.
 
@@ -48,7 +48,7 @@ I care about the details users notice and the architecture they never have to th
 <img src="./public/band-activity.svg" width="100%" alt="$ git log --stat" />
 
 <div align="center">
-<img height="180" src="./public/lain-desk.gif" alt="Lain, from Serial Experiments Lain, at her desk at night" />
+<img height="180" src="./public/main.gif" alt="Lain, from Serial Experiments Lain, at her desk at night" />
 <img height="180" src="https://streak-stats.demolab.com?user=Rahulmohanty637&hide_border=true&background=1B1B1B&border=333333&stroke=333333&ring=B63E96&fire=58E6D9&currStreakNum=F5F5F5&sideNums=A3A3A3&currStreakLabel=58E6D9&sideLabels=A3A3A3&dates=6B6B6B" alt="contribution streak" />
 </div>
 
